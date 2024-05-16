@@ -2,13 +2,18 @@
 
 ### BINIPINK Website
 
-This website is a fan-made tribute to the K-pop group _BLACKPINK_ and P-pop group _BINI_. 
+This website is a fan-made, featuring the K-pop group [_BLACKPINK_](https://www.instagram.com/blackpinkofficial/) and P-pop group [_BINI_](https://www.instagram.com/bini_ph/). 
 \
 It features a carousel of the members (my ults) of both groups, with information about each member and links to their social media profiles.
 
 ### Features
 - Carousel of group members with information and social media links
-- Navigation bar [with no links to home, contacts, and info pages]
+- Navigation bar [with no links (yet) to home, contacts, and info pages]
+
+---
+
+![Opera Snapshot_2024-05-16_105242_127 0 0 1](https://github.com/izzyluuuuh/image-slider/assets/103919666/9fffa4e2-e8d1-4514-ba23-358849cd6918)
+
 
 ---
 
