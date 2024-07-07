@@ -75,7 +75,8 @@ header .bini-logo {
     line-height: 1.3em;
 }
 .carousel .list .item .topic{
-    color: #f1683a;
+    color: hotpink;
+/*         /*#f1683a;* */
 }
 
 .carousel .list .item .topic{
@@ -102,7 +103,8 @@ header .bini-logo {
     cursor: pointer;
 }
 .carousel .list .item .buttons button:hover {
-    background-color: #F29559;  /* #ddd */
+    background-color: pink;
+          /*#F29559; #ddd */
     box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
     /* box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); */
 }
